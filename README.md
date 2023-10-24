@@ -9,6 +9,7 @@ Turbo Pascal with pixel graphics could not give a beautiful high-resolution pict
 Therefore, only Word and Excel remained, since they had a built-in programming language 
 that allowed automating the construction of beautiful geological illustrations.
 
-![Below is one of these pictures: geological column for the well](https://github.com/ivgnk/VBA/blob/master/Col_Log/Col_Log.png?raw=true)
+Below is one of these pictures: geological column for the well
+![geological column for the well](https://github.com/ivgnk/VBA/blob/master/Col_Log/Col_Log.png?raw=true)
 
 
